@@ -18,9 +18,9 @@ We hope you were able to speak with us at FLUX, but if you missed us or would li
 
 
 ### We're looking for great people to join our team!
-We are looking for a Postdoctoral Researcher and a Senior Research Assistant to join our lab to work on an NIMH-funded, collaborative project between UCSD (Dr. Greene) and the University of Minnesota (Drs. Christine Conelea and Sonya Wang), investigating the mechanisms underlying behavioral treatment response in children with Tourette syndrome. Please see the job postings below, or contact us for more information!
+We are looking for a Postdoctoral Researcher and a Staff Research Associate to join our lab to work on an NIMH-funded, collaborative project between UCSD (Dr. Greene) and the University of Minnesota (Drs. Christine Conelea and Sonya Wang), investigating the mechanisms underlying behavioral treatment response in children with Tourette syndrome. Please see the job postings below, or contact us for more information!
 
-|Postdoctoral Researcher|Senior Research Assistant|
+|Postdoctoral Researcher|Staff Research Associate|
 |:-:|:-:|
 |![](/assets/img/Postdoc_posting_UCSD_2023_final.png)|![](/assets/img/Postdoc_posting_UCSD_2023_final.png)|
 
