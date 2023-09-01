@@ -1,7 +1,7 @@
-<h1 align="center">greene lab</h1>
-<h2 align="center">developmental cognitive neuroscience</h1>
+<p align="center">
+  <img src="/assets/img/lab_logo.png">
+</p>
 
----
 
 <h1 align="center">FLUX 2023 Materials</h1>
 We hope you were able to speak with us at FLUX, but if you missed us or would like a copy of our materials they are listed below. Please feel free to contact the authors if you have any questions or would like to discuss our presented work. 
