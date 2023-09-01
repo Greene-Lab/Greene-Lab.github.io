@@ -24,7 +24,7 @@ We are looking for a Postdoctoral Researcher and a Staff Research Associate to j
 
 |Postdoctoral Researcher|Staff Research Associate|
 |:-:|:-:|
-|![](/assets/img/Postdoc_posting_UCSD_2023_final.png)|Please contact us for more information on the Staff Research Associate position!|
+|![](/assets/img/Postdoc_posting_UCSD_2023_final.png) [click to download](/assets/img/Postdoc_posting_UCSD_2023_final.png)|Please contact us via email for updated information on the Staff Research Associate position!|
 
 ---
 
